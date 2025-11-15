@@ -8,8 +8,8 @@ Complete React + Vite app with an example Express proxy server to keep API keys 
 ```bash
 npm install
 ```
-2. Go to .env.example file and replace api key.
-    Change only AI_API_KEY with open ai api key.
+2. Go to .env.example file and replace api key.<br>
+    Change only AI_API_KEY with open ai api key.<br>
     Then change the file name to ".env".
    
 4. Start the backend server (in one terminal):
