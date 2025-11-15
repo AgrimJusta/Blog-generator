@@ -317,7 +317,7 @@ Key requirements:
                 </a> )},
               { title: "Github", desc: (
                 <a
-                  href="https://github.com/in/agrim-justa"
+                  href="https://github.com/AgrimJusta"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-blue-500 underline"
